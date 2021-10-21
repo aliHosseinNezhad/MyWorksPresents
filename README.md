@@ -78,4 +78,4 @@
 
 
 # BluerCardView
- <img src="res/24hour_1.png" width="300">
+ <img src="res/blurCardView.jpg" width="300">

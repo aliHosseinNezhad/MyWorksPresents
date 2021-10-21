@@ -3,7 +3,7 @@
 
 <img src="res/waveView (1).gif" width="400px">
 
-<img src="http://www.upsara.com/images/s436505_.gif" width="400px">
+<img src="res/waveView (2).gif" width="400px">
 
  این یک ویو شخصی است که در قسمت بالا قرار گرفته و به کار جلوه ی یک موج را می دهد.
 * use of custom view

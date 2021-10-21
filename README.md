@@ -92,6 +92,6 @@
 
 |  1  | 2 | 3 |
 | ------------- | ------------- | ------------- |
-| <img src="res/demo (1).gif" width="400px">  | <img src="res/demo (2).gif" width="400px">  | <img src="res/demo (3).gif" width="400px"> |
+| <img src="res/demo (1).jpg" width="400px">  | <img src="res/demo (2).jpg" width="400px">  | <img src="res/demo (3).jpg" width="400px"> |
 
 

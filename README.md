@@ -52,10 +52,10 @@
       <b>12 Hour</b>
     </td>
     <td>
-        <img src="res/12hour_1.png" width="300" height="480">
+        <img src="res/12hour_1.png" width="300">
     </td>
     <td>
-        <img src="res/12hour.png" width="300" height="480">
+        <img src="res/12hour.png" width="300">
     </td>
   </tr>
   <tr>
@@ -63,10 +63,10 @@
       <b>24 Hour</b>
     </td>
     <td>
-        <img src="res/24hour_1.png" width="300" height="480">
+        <img src="res/24hour_1.png" width="300">
     </td>
     <td>
-        <img src="res/24hour.png" width="300" height="480">
+        <img src="res/24hour.png" width="300">
     </td>
   </tr>
 </table>
@@ -75,3 +75,7 @@
 - این یک تایم رنج پیکر هست که با سعی و تلاش فراوران توسط بنده طراحی شده است 
 - ما این را به شکل یک کتابخانه در آوردیم و می توان آن را با رنگ ها و طرح های مختلفی شخصی سازی کرد.
 - بسیاری از اجزای ان به صورت اختصاصی طراحی شده
+
+
+#BluerCardView
+ <img src="res/24hour_1.png" width="300">

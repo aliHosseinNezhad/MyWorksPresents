@@ -37,6 +37,10 @@
 
 # time range time picker
 
+|  1  | 2 |
+| ------------- | ------------- |
+| <img src="res/time_picker.gif" width="400px">  | <img src="res/timeRange1.gif" width="400px">  |
+
 <table>
   <tr>
         <th>Attribute</th>

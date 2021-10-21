@@ -9,7 +9,7 @@
 * use of custom view
 * use of cos and sin (Math)
 * with xml
-* can writed in jetpack compose
+* can writed by jetpack compose
 
 
 # نمونه کار دوم

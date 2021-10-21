@@ -48,10 +48,10 @@
       <b>12 Hour</b>
     </td>
     <td>
-        <img src="resources/12hour_1.png" width="300" height="480">
+        <img src="res/12hour_1.png" width="300" height="480">
     </td>
     <td>
-        <img src="resources/12hour.png" width="300" height="480">
+        <img src="res/12hour.png" width="300" height="480">
     </td>
   </tr>
   <tr>
@@ -59,10 +59,10 @@
       <b>24 Hour</b>
     </td>
     <td>
-        <img src="resources/24hour_1.png" width="300" height="480">
+        <img src="res/24hour_1.png" width="300" height="480">
     </td>
     <td>
-        <img src="resources/24hour.png" width="300" height="480">
+        <img src="res/24hour.png" width="300" height="480">
     </td>
   </tr>
 </table>

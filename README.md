@@ -28,3 +28,5 @@
 # time range time picker
 
 <img src="http://www.upsara.com/images/a432979_.gif" width="400px">
+<img src="http://www.upsara.com/images/t487627_.gif" width="400px">
+

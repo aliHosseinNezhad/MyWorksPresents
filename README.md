@@ -2,13 +2,16 @@
 # نمونه کار یک
 <table>
  <tr>
-  <img src="res/waveView (1).gif" width="400px">
+  
  </tr>
  <tr>
-  <img src="res/waveView (2).gif" width="400px">
+  
  </tr>
  </table>
 
+|  1  | 2 |
+| ------------- | ------------- |
+| <img src="res/waveView (1).gif" width="400px">  | <img src="res/waveView (2).gif" width="400px">  |
 
 
 

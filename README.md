@@ -27,6 +27,34 @@
 
 # time range time picker
 
-<img src="http://www.upsara.com/images/a432979_.gif" width="400px">
-<img src="http://www.upsara.com/images/t487627_.gif" width="400px">
+<table>
+  <tr>
+        <th>Attribute</th>
+        <th>Analog</th>
+        <th>Digital</th>
+    </tr>
+  <tr>
+    <td>
+      <b>12 Hour</b>
+    </td>
+    <td>
+        <img src="resources/12hour_1.png" width="300" height="480">
+    </td>
+    <td>
+        <img src="resources/12hour.png" width="300" height="480">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>24 Hour</b>
+    </td>
+    <td>
+        <img src="resources/24hour_1.png" width="300" height="480">
+    </td>
+    <td>
+        <img src="resources/24hour.png" width="300" height="480">
+    </td>
+  </tr>
+</table>
+</br>
 

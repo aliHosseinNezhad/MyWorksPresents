@@ -77,5 +77,5 @@
 - بسیاری از اجزای ان به صورت اختصاصی طراحی شده
 
 
-#BluerCardView
+# BluerCardView
  <img src="res/24hour_1.png" width="300">

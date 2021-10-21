@@ -39,7 +39,7 @@
 
 |  1  | 2 |
 | ------------- | ------------- |
-| <img src="res/time_picker.gif" width="400px">  | <img src="res/timeRange1.gif" width="400px">  |
+| <img src="res/time_picker.gif" width="200px">  | <img src="res/timeRange1.gif" width="200px">  |
 
 <table>
   <tr>

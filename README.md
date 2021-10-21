@@ -86,3 +86,12 @@
  * این برنامه بکگراند پرنت لایه را گرفته و بلور می کند و به بکگراند لایه اضافه می کند
 
  * https://github.com/aliHosseinNezhad/BlurCardView
+
+
+# Demo View
+
+|  1  | 2 | 3 |
+| ------------- | ------------- | ------------- |
+| <img src="res/demo (1).gif" width="400px">  | <img src="res/demo (2).gif" width="400px">  | <img src="res/demo (3).gif" width="400px"> |
+
+

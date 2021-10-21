@@ -1,7 +1,7 @@
 
 # نمونه کار یک
 
-<img src="http://www.upsara.com/images/s440754_.gif" width="400px">
+<img src="res/waveView (1).gif" width="400px">
 
 <img src="http://www.upsara.com/images/s436505_.gif" width="400px">
 

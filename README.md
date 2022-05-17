@@ -14,6 +14,10 @@
 | <img src="res/dmplayer/player.gif" width="250px">  | <img src="res/dmplayer/horizontalpager.gif" width="250px">  |  <img src="res/dmplayer/hearteffect.gif" width="250px">  |
 
 
+این یک موزیک پلیر هست که تماما توسط من طراحی شده و می توانید در لینک زیر پروژه را ببینید.
+https://github.com/aliHosseinNezhad/DMPlayer/tree/expriment_medibrowser
+
+
 
 
 

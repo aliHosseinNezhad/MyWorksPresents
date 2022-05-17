@@ -15,7 +15,7 @@
 
 
 این یک موزیک پلیر هست که تماما توسط من طراحی شده و می توانید در لینک زیر پروژه را ببینید.
-https://github.com/aliHosseinNezhad/DMPlayer/tree/expriment_medibrowser
+https://github.com/aliHosseinNezhad/DMPlayer
 
 
 

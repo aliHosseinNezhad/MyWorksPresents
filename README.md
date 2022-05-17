@@ -9,9 +9,9 @@
  </tr>
  </table>
 
-|  1  | 2 |
-| ------------- | ------------- |
-| <img src="res/dmplayer/player.gif" width="400px">  | <img src="res/dmplayer/horizontalpager.gif" width="400px">  |
+|  1  | 2 | 3 |
+| ------------- | ------------- | ------------- | 
+| <img src="res/dmplayer/player.gif" width="250px">  | <img src="res/dmplayer/horizontalpager.gif" width="250px">  |  <img src="res/dmplayer/hearteffect.gif" width="250px">  |
 
 
 

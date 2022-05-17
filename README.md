@@ -11,7 +11,7 @@
 
 |  1  | 2 |
 | ------------- | ------------- |
-| <img src="res/player.gif" width="400px">  | <img src="res/horizontalpager.gif" width="400px">  |
+| <img src="res/dmplayer/player.gif" width="400px">  | <img src="res/dmplayer/horizontalpager.gif" width="400px">  |
 
 
 

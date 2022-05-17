@@ -11,7 +11,7 @@
 
 |  1  | 2 |
 | ------------- | ------------- |
-| <img src="res/Player-.mp4" width="400px">  | <img src="res/Horizontal Pager_1.gif" width="400px">  |
+| <img src="res/player.gif" width="400px">  | <img src="res/horizontalpager.gif" width="400px">  |
 
 
 
